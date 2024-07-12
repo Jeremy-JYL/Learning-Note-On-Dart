@@ -18,3 +18,10 @@ tobe very details.
 3. Like C-Family, code block begin and end are `{}`.
 4. Unlike C-Family, it don't require `\n`.
 5. It don't need return in main() function for exit code.
+6. Like C-Family, it require `;`.
+
+# Variables
+1. Like C-Family, to define variables it need type.
+2. Unlike most C-Family, it also can use `var` statement and `Dynamic` type.
+3. Unlike C, to print two or more variable we can use `print("${VAR} ${VAR}")`, which is same as V.
+4. Like C-Family, it also have `const`.
