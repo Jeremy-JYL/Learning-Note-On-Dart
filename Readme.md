@@ -25,3 +25,14 @@ tobe very details.
 2. Unlike most C-Family, it also can use `var` statement and `Dynamic` type.
 3. Unlike C, to print two or more variable we can use `print("${VAR} ${VAR}")`, which is same as V.
 4. Like C-Family, it also have `const`.
+5. The `final` == `const`.
+6. Like most C-Family, the variable are changeable like C.
+
+# Operators
+1. Everything a simlar to C.
+2. Comment are same as C.
+
+# End
+My Editor: zed
+
+Learning website: https://dart.dev/language    // This consider a hardway there is another website: https://dart.dev/tutorials
