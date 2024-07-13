@@ -59,7 +59,12 @@ tobe very details.
 1. Like most C-Family, the syntax are same.
 2. Use `continue` to jump to a switch/case label.
 
+# [Error handling](Error_handling/)
+1. Like some C-Family, Dart use throw catch syntax.
+2. Use `finally` for nothing happen.
+3. Use `assert` to interrupt the program.
+
 # End
-My Editor: zed
+My Editor: zed & vim
 
 Learning website: https://dart.dev/language    // This consider a hardway there is another website: https://dart.dev/tutorials
