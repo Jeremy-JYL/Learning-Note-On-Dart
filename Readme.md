@@ -64,6 +64,11 @@ tobe very details.
 2. Use `finally` for nothing happen.
 3. Use `assert` to interrupt the program.
 
+# [Class](Class/)
+1. Why Dart class as like C's struct?
+2. Use Dart class like struct.
+3. Use normal function to define methods in class.
+
 # End
 My Editor: zed & vim
 
