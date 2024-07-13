@@ -36,6 +36,15 @@ tobe very details.
 1. Like V, the import statement like this: `import 'x:x/x.dart';`.
 2. Use `show` and `hide` to import only this or others functions.
 
+# Keywords
+[Keywords](https://dart.dev/language/keywords)
+
+# Types
+1. Unlike most C-Family, it have dynamic type on `num` type for
+`int` and `double`.
+2. Use `assert` to debug.
+3. Like python, use `'''Hello World '''` to define multilines string.
+
 # End
 My Editor: zed
 
