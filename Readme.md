@@ -45,9 +45,11 @@ tobe very details.
 2. Use `assert` to debug.
 3. Like python, use `'''Hello World '''` to define multilines string.
 
-# [Functions](Imports/)
+# [Functions](Functions/)
 1. Like most C-Family, define funtions with a return type at beginning.
 2. The function args need types.
+3. Use `[Type? name]` for optional.
+4. Use `List<String>` in the main() to get args.
 
 # End
 My Editor: zed
