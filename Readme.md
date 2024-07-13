@@ -52,8 +52,12 @@ tobe very details.
 4. Use `List<String>` in the main() to get args.
 
 # [Loops](Loops/)
-1. Like C-Family, the syntax of the `for` and `while` are same.
+1. Like most C-Family, the syntax of the `for` and `while` are same.
 2. Unlike most C-Family, it can use `for (x in y)`.
+
+# [Conditional](Conditional/)
+1. Like most C-Family, the syntax are same.
+2. Use `continue` to jump to a switch/case label.
 
 # End
 My Editor: zed
