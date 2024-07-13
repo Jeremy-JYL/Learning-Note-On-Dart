@@ -32,6 +32,10 @@ tobe very details.
 1. Everything a simlar to C.
 2. Comment are same as C.
 
+# Imports
+1. Like V, the import statement like this: `import 'x:x/x.dart';`.
+2. Use `show` and `hide` to import only this or others functions.
+
 # End
 My Editor: zed
 
