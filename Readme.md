@@ -51,6 +51,10 @@ tobe very details.
 3. Use `[Type? name]` for optional.
 4. Use `List<String>` in the main() to get args.
 
+# [Loops](Loops/)
+1. Like C-Family, the syntax of the `for` and `while` are same.
+2. Unlike most C-Family, it can use `for (x in y)`.
+
 # End
 My Editor: zed
 
