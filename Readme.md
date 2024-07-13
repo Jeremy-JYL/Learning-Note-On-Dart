@@ -12,7 +12,7 @@ complex, but I don't know if this is a bug or not because I can still run the co
 Note: V might change, now 12-JUL-24. Also this just a note so this not very mean
 tobe very details.
 
-# Hello World!
+# [Hello World!](Hello/)
 1. Like C-Family, code start at main().
 2. main() function define like this `void main()`.
 3. Like C-Family, code block begin and end are `{}`.
@@ -20,7 +20,7 @@ tobe very details.
 5. It don't need return in main() function for exit code.
 6. Like C-Family, it require `;`.
 
-# Variables
+# [Variables](Variables/)
 1. Like C-Family, to define variables it need type.
 2. Unlike most C-Family, it also can use `var` statement and `Dynamic` type.
 3. Unlike C, to print two or more variable we can use `print("${VAR} ${VAR}")`, which is same as V.
@@ -28,11 +28,11 @@ tobe very details.
 5. The `final` == `const`.
 6. Like most C-Family, the variable are changeable like C.
 
-# Operators
+# [Operators](Operators/)
 1. Everything a simlar to C.
 2. Comment are same as C.
 
-# Imports
+# [Imports](Imports/)
 1. Like V, the import statement like this: `import 'x:x/x.dart';`.
 2. Use `show` and `hide` to import only this or others functions.
 
@@ -44,6 +44,10 @@ tobe very details.
 `int` and `double`.
 2. Use `assert` to debug.
 3. Like python, use `'''Hello World '''` to define multilines string.
+
+# [Functions](Imports/)
+1. Like most C-Family, define funtions with a return type at beginning.
+2. The function args need types.
 
 # End
 My Editor: zed
